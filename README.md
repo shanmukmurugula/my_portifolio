@@ -10,7 +10,7 @@ Welcome to my personal portfolio website! This site showcases my skills, feature
 ---
 
 ## 🧑‍💻 About Me
-![My Image](https://raw.githubusercontent.com/shanmukmurugula/your-repo/main/assets/img_3.jpeg)
+![My Image](https://github.com/shanmukmurugula/my_portifolio/blob/main/img-3.jpg)
 
 
 I'm a passionate Computer Science student with a strong interest in:
