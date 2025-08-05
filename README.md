@@ -11,7 +11,7 @@ Welcome to my personal portfolio website! This site showcases my skills, feature
 
 ## 🧑‍💻 About Me
 ![My Image](https://github.com/shanmukmurugula/my_portifolio/blob/main/img-3.jpg)
-[📄 View PDF](assets/pdfs/resume.pdf)
+[📄 View PDF](https://github.com/shanmukmurugula/my_portifolio/blob/main/White%20Simple%20Bordered%20Infographic%20Resume%20(2).pdf)
 
 
 
