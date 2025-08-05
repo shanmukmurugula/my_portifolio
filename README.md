@@ -10,6 +10,8 @@ Welcome to my personal portfolio website! This site showcases my skills, feature
 ---
 
 ## 🧑‍💻 About Me
+![My Image](https://raw.githubusercontent.com/shanmukmurugula/your-repo/main/assets/img_3.jpeg)
+
 
 I'm a passionate Computer Science student with a strong interest in:
 - Web development (HTML, CSS, JavaScript)
